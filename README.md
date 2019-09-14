@@ -9,6 +9,8 @@ Add to /resources
 
 Add to start cfg
 
+https://www.youtube.com/watch?v=AdajWd091oE
+
 For Door/Gate lock:
 
 Add the following to your doorlock script or download esx_doorlock and add these to the config file:
